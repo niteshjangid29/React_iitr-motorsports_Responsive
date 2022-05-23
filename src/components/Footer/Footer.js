@@ -48,7 +48,7 @@ const Footer = () => {
                                 <div className="contact">
                                     <img src="./images/location.svg" alt="location" />
                                     <div className='location'>
-                                        <a href="#">Mechanical & Industrial Engineering Department, IIT Roorkee, Uttarakhand, India. Pin: 247667</a>
+                                        <a href="https://goo.gl/maps/QifNN2kuSuqcfWF77">Mechanical & Industrial Engineering Department, IIT Roorkee, Uttarakhand, India. Pin: 247667</a>
                                     </div>
                                 </div>
                             </div>
